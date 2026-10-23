@@ -1,0 +1,21 @@
+{
+  "loan_amnt": 10000,
+  "int_rate": 12.5,
+  "installment": 350,
+  "grade": "B",
+  "sub_grade": "B2",
+  "emp_length": 5,
+  "home_ownership": "RENT",
+  "annual_inc": 50000,
+  "verification_status": "Verified",
+  "purpose": "debt_consolidation",
+  "dti": 18,
+  "delinq_2yrs": 0,
+  "fico_range_low": 650,
+  "fico_range_high": 700,
+  "open_acc": 6,
+  "pub_rec": 0,
+  "revol_bal": 12000,
+  "revol_util": 45,
+  "total_acc": 10
+}
